@@ -3,6 +3,11 @@ dom-mamipulations
 
 DOM Manipulations made easy.
 
+Installation
+---
+
+    npm install dom-manipulations
+
 Usage
 ---
 
