@@ -1,0 +1,14 @@
+{
+    "name": "dom-manipulations",
+    "version": "0.1.0",
+    "description": "Makes DOM manipulations easy.",
+    "author": "Florian Margaine <florian@margaine.com>",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ralt/dom-manipulations"
+    },
+    "dependencies": {
+        "iter-shims": "0.1.0"
+    }
+}
